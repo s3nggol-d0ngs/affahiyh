@@ -1,0 +1,8 @@
+User-agent: Googlebot  
+Disallow:   
+User-agent: googlebot-image  
+User-agent: googlebot-mobile  
+Disallow:   
+User-agent: *  
+Disallow: 
+Sitemap: https://s3nggol-d0ngs.github.io/affahiyh/sitemap.xml
